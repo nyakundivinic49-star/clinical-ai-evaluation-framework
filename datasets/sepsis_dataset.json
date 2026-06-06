@@ -1,0 +1,74 @@
+[
+{
+"case_id": 101,
+"clinical_query": "Which clinical findings may suggest early septic shock in an adult patient receiving intensive care?",
+"reference_points": [
+"Low blood pressure",
+"Elevated heart rate",
+"Abnormal body temperature",
+"Increased respiratory rate",
+"Changes in mental status",
+"Raised serum lactate",
+"Decreased urine output"
+],
+"complexity_level": "Moderate",
+"clinical_area": "Intensive Care",
+"assessment_domain": "Medical Correctness"
+},
+{
+"case_id": 102,
+"clinical_query": "What priority actions should healthcare professionals take when septic shock is suspected?",
+"reference_points": [
+"Assess airway and breathing",
+"Provide supplemental oxygen",
+"Collect blood cultures when appropriate",
+"Administer empiric broad-spectrum antibiotics",
+"Initiate intravenous fluid therapy",
+"Perform continuous physiological monitoring"
+],
+"complexity_level": "High",
+"clinical_area": "Intensive Care",
+"assessment_domain": "Safety Evaluation"
+},
+{
+"case_id": 103,
+"clinical_query": "How does lactate measurement contribute to the assessment of septic shock?",
+"reference_points": [
+"Reflects tissue hypoperfusion",
+"Helps determine illness severity",
+"Supports monitoring of treatment effectiveness"
+],
+"complexity_level": "Moderate",
+"clinical_area": "Critical Care Medicine",
+"assessment_domain": "Clinical Justification"
+},
+{
+"case_id": 104,
+"clinical_query": "What adverse outcomes may occur if septic shock is not treated promptly?",
+"reference_points": [
+"Multiple organ dysfunction",
+"Acute kidney injury",
+"Respiratory compromise",
+"Coagulation abnormalities",
+"Increased mortality risk"
+],
+"complexity_level": "High",
+"clinical_area": "Critical Care Medicine",
+"assessment_domain": "Coverage Assessment"
+},
+{
+"case_id": 105,
+"clinical_query": "Which physiological parameters should be routinely monitored during septic shock management?",
+"reference_points": [
+"Blood pressure trends",
+"Heart rate",
+"Respiratory status",
+"Urine output",
+"Oxygen saturation",
+"Serum lactate concentration"
+],
+"complexity_level": "Moderate",
+"clinical_area": "Intensive Care",
+"assessment_domain": "Medical Correctness"
+}
+]
