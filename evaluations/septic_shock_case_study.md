@@ -2,7 +2,7 @@
 
 ## Assessment Details
 
-**Reviewer:** Wilfred K.
+**Reviewer:** Vinic N.
 
 **Clinical Specialty:** Critical Care & Intensive Care Nursing
 
