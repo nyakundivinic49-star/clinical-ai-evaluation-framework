@@ -82,9 +82,3 @@ This repository may be useful for:
 * Healthcare professionals exploring AI systems
 * Researchers studying clinical AI applications
 * Organizations developing healthcare-focused LLM workflows
-
----
-
-# Important Notice
-
-The materials contained in this repository are intended exclusively for research, educational, and AI evaluation purposes. Nothing within this project should be interpreted as medical advice, diagnosis, treatment guidance, or clinical decision support.
